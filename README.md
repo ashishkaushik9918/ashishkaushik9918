@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @ashishkaushik9918
+- 👋 Hi, I’m Ashish Kumar Verma
 - 👀 I’m interested in software development
-- 🌱 I’m fullstack developer
+- 🌱 I’m fullstack software developer 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 
 <!---
 ashishkaushik9918/ashishkaushik9918 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
